@@ -19,6 +19,20 @@ The Hodlinfo app retrieves cryptocurrency ticker data from an external API, stor
 - **MongoDB**: NoSQL database used for storing cryptocurrency ticker data.
 - **Axios**: Promise-based HTTP client for making API requests.
 
+## Screenshots
+
+Include screenshots of the Hodlinfo app to provide a visual representation of its features and interface.
+
+### light 
+
+![Homepage](screenshots/homepage.png)
+
+### Dark
+
+![Ticker Information](screenshots/ticker_info.png)
+
+
+
 ## Installation
 
 To run the Hodlinfo app locally, follow these steps:
