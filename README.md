@@ -40,7 +40,7 @@ To run the Hodlinfo app locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Praveenkumartiwari321/Hodlinfo-Quadb.git
 ```
 
 2. Navigate to the project directory:
