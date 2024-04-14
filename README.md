@@ -25,11 +25,11 @@ Include screenshots of the Hodlinfo app to provide a visual representation of it
 
 ### light 
 
-![Homepage](screenshots/Screenshot_white)
+![Homepage](screenshots/Screenshot_white.png)
 
 ### Dark
 
-![Ticker Information](screenshots/Screenshot_black)
+![Ticker Information](screenshots/Screenshot_black.png)
 
 
 
